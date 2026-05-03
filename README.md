@@ -25,7 +25,7 @@ I don't have anything else as this aims to be a simple way to control those feat
 
 ### 🌡️ Sensors
 View all available active sensors on the system (Temperatures, Voltages, etc.).
-<img width="1007" height="444" alt="image" src="https://github.com/user-attachments/assets/b2f31f95-34dc-4f63-b44e-98191dfab948" />
+<img width="932" height="629" alt="image" src="https://github.com/user-attachments/assets/db915a92-1685-4b97-801b-43faed31921e" />
 
 ### 🔌 Power Control
 Manage chassis power state and view current status.
