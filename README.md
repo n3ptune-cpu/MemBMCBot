@@ -79,3 +79,6 @@ I will probably maintain this in the future if my conditions change, but feel fr
 
 * I **will** accept Pull Requests.
 * I will **NOT** be fixing any issues; please send a Pull Request with your fixes for this!
+
+## Extra info
+The "mem" name is from Honkai Star Rail as my workstation is named as NSX-CYRENE as well as the BMC itself being named as NSX-DEMIURGE, keeping to the Cyrene scheme of names related to this system :)
