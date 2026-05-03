@@ -29,7 +29,7 @@ View all available active sensors on the system (Temperatures, Voltages, etc.).
 
 ### 🔌 Power Control
 Manage chassis power state and view current status.
-<img width="671" alt="Power Control Screenshot" src="https://github.com/user-attachments/assets/c868365c-9531-47ea-ba7c-313eebc4af13" />
+<img width="515" height="290" alt="image" src="https://github.com/user-attachments/assets/44d17038-3a29-48b9-8537-0c29c8976073" />
 
 ### 🌀 Fan Control
 Switch between fan profiles and check current fan mode.
